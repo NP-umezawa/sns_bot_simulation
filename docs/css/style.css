@@ -31803,9 +31803,6 @@ body {
   cursor: pointer;
 }
 .c-lineBlock .area.input .col.input .stampBtn:after {
-  position: absolute;
-  top: 0;
-  left: 0;
   content: "\EA16";
   font-family: "myfont";
   font-style: normal;
